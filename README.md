@@ -3,7 +3,7 @@
 **A self supervised TCN Transformer backbone with Sparse Variational Gaussian Process heads for joint turbofan prognostics and diagnostics.**
 
 MSc Artificial Intelligence thesis, School of Computer Science, University of Lincoln (August 2026).
-Author: Mohamed Mehdi Benabi. Supervisor: Dr. Heriberto Cuayahuitl Portilla <link url='https://scholar.google.co.uk/citations?hl=en&user=zDlQNDgAAAAJ&view_op=list_works&sortby=pubdate'/>.
+Author: Mohamed Mehdi Benabi. Supervisor: [Dr. Heriberto Cuayahuitl Portilla] (https://scholar.google.co.uk/citations?hl=en&user=zDlQNDgAAAAJ&view_op=list_works&sortby=pubdate).
 The full thesis is included in this repository as [30346363 Thesis.pdf](30346363%20Thesis.pdf).
 
 ## Overview
